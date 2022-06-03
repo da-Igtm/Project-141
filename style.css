@@ -1,0 +1,26 @@
+#press{
+    box-shadow: 9px 8px 14px steelblue;
+}
+#heading{
+    width: 100%;
+}
+#heading_title{
+    float: left;
+}
+#instructions{
+    float: right;
+}
+#footer{
+    width: 100%;
+    background-color: aquamarine;
+    position: fixed;
+    bottom: 0;
+}
+#footer_text{
+    text-align: center;
+}
+canvas{
+    padding: 10px;
+    margin: 5%;
+    box-shadow: 4px 4px 15px blanchedalmond;
+}
